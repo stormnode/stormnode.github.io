@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            stormnode.github.io
+tagline:          My personal website
+url:
+paginate:         1
+author:
+  name:           Michael Angerman
+  url:            michaelangerman.net
+  email:          zratomedia AT gmail DOT com
+comments:
+  provider: disqus
+  disqus:
+    short_name: arsme
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/stormnode/stormnode.github.io
